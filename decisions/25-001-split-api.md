@@ -9,8 +9,7 @@ Proposed
 - Tab-completability/simple exposure of tools is a `pyiron` goal
 - Many users of our tools are scientists, not programmers
 - Some users of our tools are deeply knowledgeable programmers
-- Getting the most out of [semantic versioning](https://semver.org/) is a `pyiron` goal 
-- Python provides no universal guidance on semantic version
+- Effectively using [semantic versioning](https://semver.org/) is a `pyiron` goal, but python provides no universal guidance on how
 - Python provides no universal guidance on API management
 
 ## Decision
