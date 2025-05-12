@@ -2,7 +2,7 @@
 
 ## Status
 
-[Adopted](https://github.com/pyiron/decisions/pull/1)
+[Adopted v1](https://github.com/pyiron/decisions/pull/1)
 - https://github.com/pyiron/executorlib/pull/644
 
 [Adopted v2](https://github.com/pyiron/decisions/pull/10)
