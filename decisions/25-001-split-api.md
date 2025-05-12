@@ -2,7 +2,12 @@
 
 ## Status
 
-Proposed
+[Adopted v1](https://github.com/pyiron/decisions/pull/1)
+- https://github.com/pyiron/executorlib/pull/644
+
+[Adopted v2](https://github.com/pyiron/decisions/pull/10)
+- https://github.com/pyiron/executorlib/pull/644
+- https://github.com/pyiron/pyiron_workflow/pull/643
 
 ## Context
 
@@ -14,7 +19,7 @@ Proposed
 
 ## Decision
 
-- `pyiron` packages should provide a concise user-facing API directly in the topmost `__init__.py` file; if appropriate for the package, they should provide a second, disjoint set developer-facing API for power-users of the package under `api.py`.
+- `pyiron` packages should provide a concise user-facing API directly in the topmost `__init__.py` file; if appropriate for the package, they should provide a second API for power-users of the package under `api.py`.
 - Objects included in both these APIs are what we consider for evaluating how to update the semantic versioning of new releases.
 
 ## Consequences
@@ -22,3 +27,4 @@ Proposed
 - Standard users should see a shorter tab-completion list 
 - Power users consistently know where to look for an extended list of tools
 - Users of all types get increased clarity of what is protected by our semantic versioning and what they use at their own risk
+- Package maintainers may (but are not required to) use the `api.py` to manage deprecation cycles from tools exposed in `__init__.py`
