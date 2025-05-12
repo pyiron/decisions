@@ -5,7 +5,7 @@
 [Adopted](https://github.com/pyiron/decisions/pull/1)
 - https://github.com/pyiron/executorlib/pull/644
 
-[Amended](https://github.com/pyiron/decisions/pull/10)
+[Adopted v2](https://github.com/pyiron/decisions/pull/10)
 - https://github.com/pyiron/executorlib/pull/644
 - https://github.com/pyiron/pyiron_workflow/pull/643
 
