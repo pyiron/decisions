@@ -2,7 +2,7 @@
 
 ## Status
 
-Accepted
+Adopted in:
 
 ## Context
 
