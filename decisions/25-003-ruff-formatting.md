@@ -2,6 +2,8 @@
 
 ## Status
 
+[Adopted V1](https://github.com/pyiron/decisions/pull/13)
+
 ## Context
 
 * Consistent code style improves readability and maintainability across contributors
