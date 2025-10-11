@@ -1,4 +1,4 @@
-# Decision 2 -- Adopt `ruff` for code formatting
+# Decision 3 -- Adopt `ruff` for code formatting
 
 ## Status
 
