@@ -7,6 +7,7 @@ Adopted in the following pull requests:
 * https://github.com/pyiron/executorlib/pull/846
 * https://github.com/pyiron/pyfileindex/pull/242
 * https://github.com/pyiron/pylammpsmpi/pull/389
+* https://github.com/pyiron/pysqa/pull/469
 
 ## Context
 
