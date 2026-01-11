@@ -3,17 +3,23 @@
 ## Status
 
 Adopted in the following pull requests:
-* https://github.com/pyiron/pyfileindex/pull/203
-* https://github.com/pyiron/executorlib/pull/657
-* https://github.com/pyiron/pysqa/pull/410
-* https://github.com/pyiron/conda_subprocess/pull/113
-* https://github.com/pyiron/pyiron_lammps/pull/239
-* https://github.com/pyiron/structuretoolkit/pull/379
-* https://github.com/pyiron/pylammpsmpi/pull/360
-* https://github.com/pyiron/pyiron_vasp/pull/75
 * https://github.com/pyiron/atomistics/pull/521
-* https://github.com/pyiron/pyiron_base/pull/1862
+* https://github.com/pyiron/bagofholding/pull/50
+* https://github.com/pyiron/conda_subprocess/pull/113
+* https://github.com/pyiron/executorlib/pull/657
+* https://github.com/pyiron/pyfileindex/pull/203
 * https://github.com/pyiron/pyiron_atomistics/pull/1793
+* https://github.com/pyiron/pyiron_base/pull/1862
+* https://github.com/pyiron/pyiron_core/pull/92
+* https://github.com/pyiron/pyiron_lammps/pull/239
+* https://github.com/pyiron/pyiron_module_template/pull/65
+* https://github.com/pyiron/pyiron_snippets/pull/62
+* https://github.com/pyiron/pyiron_vasp/pull/75
+* https://github.com/pyiron/pyiron_workflow/pull/761
+* https://github.com/pyiron/pylammpsmpi/pull/360
+* https://github.com/pyiron/pysqa/pull/410
+* https://github.com/pyiron/semantikon/pull/277
+* https://github.com/pyiron/structuretoolkit/pull/379
 
 ## Context
 
