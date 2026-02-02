@@ -5,6 +5,7 @@
 Already implemented in:
 - https://github.com/pyiron/bagofholding
 - https://github.com/pyiron/executorlib
+- https://github.com/pyiron/flowrep/
 - https://github.com/pyiron/pyfileindex
 - https://github.com/pyiron/pyiron_module_template
 - https://github.com/pyiron/pyiron_ontology
