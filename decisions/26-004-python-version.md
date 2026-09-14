@@ -22,4 +22,4 @@
 ## Consequences
 
 * Following the current release schedule we have to update the `pyproject.toml` and our continuous integration environment at least once a year.
-* We restrict ourself to not require the use of new features introduced in the Python language until they are supported by all active Python versions. For example we previously dropped Python 3.10 early because of the limited type hinting support. 
+* We restrict ourselves to not require the use of new features introduced in the Python language until they are supported by all active Python versions. For example we previously dropped Python 3.10 early because of the limited type hinting support. 
